@@ -1,5 +1,5 @@
 # Java-Socket-Project-Post-It-Notes
-This is a program that uses java sockets to simulate a bulletin board where a user can post virtual post it notes. A board is generated and the user must give coordinates / a message to attach posts to the board. Addition commandsd are used to do things like remove all the current post it notes or retrieve all the messages in a certain section of the bulletin board. 
+This is a program that uses java sockets to simulate a bulletin board where a user can post virtual post it notes. The program supports multiple users using threads so all notes are stored on the server and multiple users can view / make changes simultaneously. A board is generated and the user must give coordinates / a message to attach posts to the board. Addition commandsd are used to do things like remove all the current post it notes or retrieve all the messages in a certain section of the bulletin board. 
 
 Server.java
 -------------
